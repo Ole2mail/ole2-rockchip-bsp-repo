@@ -1,1 +1,1 @@
-# rockchip-bsp-repo
+# ole2-rockchip-bsp-repo
